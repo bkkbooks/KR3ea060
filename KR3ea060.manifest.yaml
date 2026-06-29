@@ -1,0 +1,111 @@
+canonical_identifier: bkk:krp/KR3ea060/v1
+canonical_location: https://kanripo.org/bkk/KR3ea060/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 難經本義
+  identifiers:
+    krp: KR3ea060
+  tags:
+    kr-categories: KR3ea
+    tls-dates: dat04310
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ea060.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ea060_000.yaml, hash: 'sha256:a5240d19cf16f5d964c4a554fd3f82785fab32730d793eb31158cbd8572d318d'}
+  - {seq: 1, filename: KR3ea060_001.yaml, hash: 'sha256:78ccc6e4d7634d44e23111d835225de6b1a0eb93be92766a142be635eaf96aa8'}
+  - {seq: 3, filename: KR3ea060_003.yaml, hash: 'sha256:aaa48932c3fe2c91294361835134b816f31e121ccb984d0b125c4c4cb4d75872'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ea060_000.markers.yaml, hash: 'sha256:2e533956296f3fa4244444d42bc6c6bfa504229f899c0c5fd9b6fbe9edf332fe'}
+  - {seq: 1, role: markers, filename: assets/KR3ea060_001.markers.yaml, hash: 'sha256:36a9103f51103905327efef2de4f40fbc919ac0b5cac7781c09420e05e27ba5e'}
+  - {seq: 3, role: markers, filename: assets/KR3ea060_003.markers.yaml, hash: 'sha256:d6d6bd348a29164918c00a7f3e05ad1b12ff51431204ef1d010244e243b4b2dd'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ea060_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 267
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ea060_jc_000-d3.h1s1
+    span:
+    - front
+    - 267
+    - 627
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ea060_jc_000-d4.h1s1
+    span:
+    - front
+    - 627
+    - 1101
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ea060_jc_000-d5.h1s1
+    span:
+    - body
+    - 0
+    - 275
+  label: 凡例
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ea060_jc_000-d6.h1s1
+    span:
+    - body
+    - 275
+    - 876
+  label: 闕誤總類
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ea060_jc_000-d7.h1s1
+    span:
+    - body
+    - 876
+    - 3963
+  label: 難經匯考
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ea060_jc_001-d8.h1s1
+    span:
+    - body
+    - 0
+    - 17405
+  label: 上卷
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ea060_jc_003-d9.h1s1
+    span:
+    - body
+    - 0
+    - 19071
+  label: 下卷
+  type: section
+  level: 1
+hash: sha256:6f89623bdad6783194326a441a17cb2d1960c0a755125d9de19854962e4bd166
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

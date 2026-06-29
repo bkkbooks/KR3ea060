@@ -1,0 +1,108 @@
+canonical_identifier: bkk:krp/KR3ea060/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ea060/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 難經本義
+  identifiers:
+    krp: KR3ea060
+  tags:
+    kr-categories: KR3ea
+    tls-dates: dat04310
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ea060.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ea060_000-jc.yaml, hash: 'sha256:75711918e198ddad228e5115fe2bd9009712b3c547d7864fb191f060ece7ddab'}
+  - {seq: 1, filename: KR3ea060_001-jc.yaml, hash: 'sha256:c1993be88a2338e604abba045f369200369da3075a1d05e5307eeba37015ed67'}
+  - {seq: 3, filename: KR3ea060_003-jc.yaml, hash: 'sha256:d729db139e0193b9dfed26d38db8509e5aca8727a71f9f2a1f606a3ab085d178'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ea060_000-jc.markers.yaml, hash: 'sha256:def1eb1429ef740c04d1432fb584efb3c662797fc3aabe2552d3de0eeeaa124b'}
+  - {seq: 1, role: markers, filename: assets/KR3ea060_001-jc.markers.yaml, hash: 'sha256:ea77235c72be693a88b98b75065f2984443074eb346dcf19350302863166fab9'}
+  - {seq: 3, role: markers, filename: assets/KR3ea060_003-jc.markers.yaml, hash: 'sha256:312a982fc42e7e6a70b6638dffd7a80c48227f98e164fd419a956638c1d38896'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ea060_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 267
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ea060_jc_000-d3.h1s1
+    span:
+    - front
+    - 267
+    - 627
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ea060_jc_000-d4.h1s1
+    span:
+    - front
+    - 627
+    - 1101
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ea060_jc_000-d5.h1s1
+    span:
+    - body
+    - 0
+    - 275
+  label: 凡例
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ea060_jc_000-d6.h1s1
+    span:
+    - body
+    - 275
+    - 876
+  label: 闕誤總類
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ea060_jc_000-d7.h1s1
+    span:
+    - body
+    - 876
+    - 3963
+  label: 難經匯考
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ea060_jc_001-d8.h1s1
+    span:
+    - body
+    - 0
+    - 17405
+  label: 上卷
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ea060_jc_003-d9.h1s1
+    span:
+    - body
+    - 0
+    - 19071
+  label: 下卷
+  type: section
+  level: 1
+hash: sha256:91a64e607010c8206b6802e2c76308e483e489e742f996fe5cc98fb26384dddc
