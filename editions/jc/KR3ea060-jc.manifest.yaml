@@ -23,7 +23,7 @@ assets:
   markers:
   - {seq: 0, role: markers, filename: assets/KR3ea060_000-jc.markers.yaml, hash: 'sha256:def1eb1429ef740c04d1432fb584efb3c662797fc3aabe2552d3de0eeeaa124b'}
   - {seq: 1, role: markers, filename: assets/KR3ea060_001-jc.markers.yaml, hash: 'sha256:ea77235c72be693a88b98b75065f2984443074eb346dcf19350302863166fab9'}
-  - {seq: 3, role: markers, filename: assets/KR3ea060_003-jc.markers.yaml, hash: 'sha256:312a982fc42e7e6a70b6638dffd7a80c48227f98e164fd419a956638c1d38896'}
+  - {seq: 3, role: markers, filename: assets/KR3ea060_003-jc.markers.yaml, hash: 'sha256:84fe5aaa9b617e4e6f658000c9edf976ccfe38a7064f3aa4e289bdb3a7c2c792'}
 table_of_contents:
 - ref:
     seq: 0
@@ -105,4 +105,4 @@ table_of_contents:
   label: 下卷
   type: section
   level: 1
-hash: sha256:91a64e607010c8206b6802e2c76308e483e489e742f996fe5cc98fb26384dddc
+hash: sha256:284d7e201dbe77e991484a0bc7fd274c0827d1dc1d3f8b0b13358dc87b16d6b5
